@@ -1,0 +1,91 @@
+[
+  {
+    "Id": 1,
+    "Description": "Cean house",
+    "Tasks": [
+      {
+        "Id": 1,
+        "Title": "Wash dishes",
+        "Description": "Be careful with soft ones.",
+        "Status": 1,
+        "EndDate": "2020-09-25"
+      },
+      {
+        "Id": 2,
+        "Title": "Remove dust from furniture",
+        "Description": "Use mask",
+        "Status": 0,
+        "EndDate": "2020-09-25"
+      },
+      {
+        "Id": 3,
+        "Title": "Remove cobwebs",
+        "Description": "Careful with spiders!",
+        "Status": 1,
+        "EndDate": "2020-09-20"
+      }
+    ]
+  },
+  {
+    "Id": 1,
+    "Description": "Go to work",
+    "Tasks": [
+      {
+        "Id": 1,
+        "Title": "Prepare coffee",
+        "Description": "Prepare coffee",
+        "Status": 1
+      },
+      {
+        "Id": 2,
+        "Title": "Choose clothes",
+        "Description": "Choose clothes",
+        "Status": 0
+
+      },
+      {
+        "Id": 3,
+        "Title": "Wear the shoes",
+        "Description": "Check if there is no coins inside them.",
+        "Status": 0
+      },
+      {
+        "Id": 4,
+        "Title": "Get car keys",
+        "Description": "Split house key from car key set.",
+        "Status": 1
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Description": "Shopping",
+    "Tasks": [
+      {
+        "Id": 1,
+        "Title": "Get a supermarket cart",
+        "Description": "Remember to give back and get the coin.",
+        "Status": 1
+      },
+      {
+        "Id": 2,
+        "Title": "Consult shopping list",
+        "Description": "Do not spend too much",
+        "Status": 0
+      },
+      {
+        "Id": 3,
+        "Title": "Find essencial items",
+        "Description": "Prefer lower prices",
+        "Status": 0
+      },
+      {
+        "Id": 4,
+        "Title": "Grab a chocolat bar",
+        "Description": "Only one!",
+        "Status": 0,
+        "endDate": "2020-09-22"
+      }
+    ]
+  }
+]

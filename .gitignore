@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/TaskManager/v16
+/TaskManager.App/obj
+/TaskManager.App/Properties/PublishProfiles
+/TaskManager.App/Properties

@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "defaultProvider": "unpkg",
+  "libraries": [
+    {
+      "library": "react-beautiful-dnd@13.0.0",
+      "destination": "lib/react-beautiful-dnd/"
+    }
+  ]
+}
